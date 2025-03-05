@@ -1,6 +1,22 @@
 <!-- markdownlint-disable-file -->
 # CHANGELOG
 
+## v0.1.0 (2025-03-05)
+
+### ✨ Minor
+
+  * ✨ Add DNS Zone and Zone settings management (!2) by Romain Deville ([`e695bf5`](https://framagit.org/rdeville-public/opentofu/cloudflare-dns/-/commit/e695bf5c3badbba2b355703f5059c52153ab7b03))
+  * ✨ Add Zone and related resources management by Romain Deville ([`bc9aaf7`](https://framagit.org/rdeville-public/opentofu/cloudflare-dns/-/commit/bc9aaf7387d40e10984a3255b469d24ac0f3167c)) 🔏
+
+### 🩹 Patch
+
+  * ⬆️ Upgrade devbox.lock by Romain Deville ([`4bdf64c`](https://framagit.org/rdeville-public/opentofu/cloudflare-dns/-/commit/4bdf64c07578575dd811d81192654b06c4831193)) 🔏
+  * 📌 Add provider versions by Romain Deville ([`871f2cc`](https://framagit.org/rdeville-public/opentofu/cloudflare-dns/-/commit/871f2cc5d6aaa5503eff4e379609276e751ae53f)) 🔏
+
+### 🔊 Others
+
+  * 📝 Update README from tf-docs by Romain Deville ([`9e0794c`](https://framagit.org/rdeville-public/opentofu/cloudflare-dns/-/commit/9e0794c7c581cacbc9ea3324fbb91a3c28bdac0f)) 🔏
+
 ## v0.0.1 (2025-02-09)
 
 ### 🩹 Patch
